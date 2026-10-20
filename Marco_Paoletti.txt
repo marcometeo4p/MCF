@@ -1,0 +1,5 @@
+Marco
+Paoletti
+377552
+marco.paoletti1@studenti.unipg.it
+Python 3.12.3
