@@ -1,0 +1,26 @@
+istruzioni linux
+pwd ---> dice in che cartella stai
+cd ..  ---> ti porta alla cartella padre
+ls  ---> cosa c'è dentro la cartella
+	-l ---> mostra i dattagli degli el della cartella
+cd  ---> ti sposti con perc assoluto o rel ma non stringhe
+mkdir [nome cartella] ---> crea nuova cartella
+pico [nome file.xxx] ---> crea e modifica quel file
+more [nome file.xxx] ---> mostra il contenuto
+rm [nome file.xxx] ---> calncella il file senza chiedere niente!!!!!!!!!!!!
+	-i ---> chiede conferma!!!!!!
+	-r ---> necessaria per rimuovere cartelle (se rs -r * ---> cancelli tutti gli el di quella cartella)
+
+explorer.exe ---> apre esplora risorse di W
+explorer.exe . ---> apre interfaccia di Windows nella cartella in cui sei Linux
+code . ---> apre vscode
+
+!!  sudo [comando] !! esegue come amministratore il comando, bypassa tutto, psw,  PERICOLOSO!!!!!
+emacs [nome file.xxx] ---> crea file...
+emacs [nome file.xxx] & apre il file lasciando libero il terminale
+	ctrl + X + Ctrl + C chiude la finestra
+	ctrl + X + Ctrl + S salva
+
+[output] > [nome_file.xxx] ---> mette l'output nel file (sovrascrive)
+[output] >> [nome_file.xxx] ---> accoda l'output nel file
+	
