@@ -1,0 +1,9 @@
+
+n1=input("immetere n1")
+n2=input("immetere n2")
+
+n2=int(n2)
+n1=int(n1)
+
+for n in [n1,n2]:
+    print("il numero {:10d} in binario è {} in esadecimale è{}".format(n,n.tobyte(b),n.tobyte(x))
